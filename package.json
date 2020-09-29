@@ -1,0 +1,34 @@
+{
+  "name": "apicompataapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JEREMIE MUZOLA BIAKENGA",
+  "license": "ISC",
+  "dependencies": {
+    "allow-methods": "^2.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "debug": "^4.2.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-request-id": "^1.4.1",
+    "express-session": "^1.17.1",
+    "file-stream-rotator": "^0.5.7",
+    "helmet": "^4.1.1",
+    "http-errors": "^1.8.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.20",
+    "logger": "0.0.1",
+    "moment": "^2.29.0",
+    "mongoose": "^5.10.7",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4",
+    "path": "^0.12.7",
+    "q": "^1.5.1",
+    "sha1": "^1.1.1"
+  }
+}
